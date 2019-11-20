@@ -1,7 +1,3 @@
-INSERT INTO products(productName, productInventory, productPrice)
-    VALUES (‘Broccoli’, 17, 1.00), (‘Cabbage’, 15, .99);
-    
--- Content for employees, departmentsm and deptEmployees
 INSERT INTO aisles(aisleName, refrigerated) VALUES (1, 1);
 INSERT INTO aisles(aisleName, refrigerated) VALUES (2, 0);
 INSERT INTO aisles(aisleName, refrigerated) VALUES (3, 0);
