@@ -73,7 +73,7 @@ INSERT INTO products(productName, productInventory, productPrice, aisleID) VALUE
 INSERT INTO products(productName, productInventory, productPrice, aisleID) VALUES ("Kool Aid", 276, 1.00, 4);
 INSERT INTO products(productName, productInventory, productPrice, aisleID) VALUES ("Little Hugs", 70, 5.99, 4);
 INSERT INTO products(productName, productInventory, productPrice, aisleID) VALUES ("HiC", 21, 3.99, 4);
-INSERT INTO products (productName, productInventory, productPrice, aisleID) VALUES ("Capri Sun", 117, 2);
+INSERT INTO products (productName, productInventory, productPrice, aisleID) VALUES ("Capri Sun", 117, 10.99, 2);
 INSERT INTO products(productName, productInventory, productPrice, aisleID) VALUES ("Wonder Bread", 199, 1.69, 3);
 INSERT INTO products(productName, productInventory, productPrice, aisleID) VALUES ("Bagguette", 135, 1.89, 3);
 INSERT INTO products(productName, productInventory, productPrice, aisleID) VALUES ("Lucky Charms", 313, 2.89, 3);
