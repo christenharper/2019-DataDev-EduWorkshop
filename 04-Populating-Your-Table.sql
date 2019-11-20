@@ -1,7 +1,3 @@
-ALTER TABLE products ADD productColor VARCHAR(25);
-
-ALTER TABLE products DROP COLUMN productColor;
-
 INSERT INTO products(productName, productInventory, productPrice)
     VALUES (‘Broccoli’, 17, 1.00), (‘Cabbage’, 15, .99);
     
